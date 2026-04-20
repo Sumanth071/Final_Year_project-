@@ -9,6 +9,42 @@ A complete **full-stack MERN (MongoDB, Express, React, Node.js)** application fo
 
 ---
 
+## 📚 **Documentation**
+
+| Document | Purpose |
+|----------|---------|
+| [QUICKSTART.md](ai-powered-smart-restaurant-management-system/QUICKSTART.md) | **⚡ Start here!** - 3-step quick start guide |
+| [INSTALLATION.md](ai-powered-smart-restaurant-management-system/INSTALLATION.md) | 📦 Detailed setup instructions for all platforms |
+| [README.md](ai-powered-smart-restaurant-management-system/README.md) | 📖 Complete project documentation |
+| [setup.sh](ai-powered-smart-restaurant-management-system/setup.sh) | 🐧 Automated setup for Linux/Mac |
+| [setup.bat](ai-powered-smart-restaurant-management-system/setup.bat) | 🪟 Automated setup for Windows |
+
+---
+
+## 🚀 **Quick Start**
+
+### Fastest Way to Get Started (< 5 minutes)
+
+```bash
+cd ai-powered-smart-restaurant-management-system
+
+# Terminal 1: Backend
+cd server
+npm install
+npm run dev
+
+# Terminal 2: Frontend (new terminal)
+cd client
+npm install
+npm run dev
+```
+
+✅ Open http://localhost:5173 and you're ready to go!
+
+For detailed setup instructions, see **[QUICKSTART.md](ai-powered-smart-restaurant-management-system/QUICKSTART.md)**
+
+---
+
 ## ✨ **Key Features**
 
 ### 🎯 Restaurant Management
